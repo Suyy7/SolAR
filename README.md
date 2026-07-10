@@ -12,5 +12,6 @@ Toca temas como:
 
 Actualmente, cuando se crea este doc, nos ubicamos desde Argentina, Córdoba y tomamos a ésta como una referencia para inbuirnos al tema de la Energia Solar.
 
+Aclaración: Los PDF provistos son realizados por Gamma.app un sitio que ayuda a crear estas presentaciones mas completas. 
 
 
