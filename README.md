@@ -12,6 +12,6 @@ Toca temas como:
 
 Actualmente, cuando se crea este doc, nos ubicamos desde Argentina, Córdoba y tomamos a ésta como una referencia para inbuirnos al tema de la Energia Solar.
 
-Aclaración: Los PDF provistos son realizados por Gamma.app un sitio que ayuda a crear estas presentaciones mas completas. 
+Aclaración: Los PDF provistos son realizados por Gamma.app un sitio que ayuda a crear estas presentaciones mas completas donde yo creo el contenido personalmente, lo organizo y lo plasmo para que el modelo de lenguaje cree un diseño en formato presentación. Aunque elegí uno particular agradable y práctico, seguramente lo corregiré para mejor en el futuro.
 
 
