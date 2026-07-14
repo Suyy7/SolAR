@@ -9,7 +9,9 @@ generan electricidad aprovechando el calor del sol
 * DNI (Direct Normal Irradiance): radiación directa perpendicular al sol
 * DHI (Diffuse Horizontal Irradiance): radiación difusa (dispersada por atmósfera/nubes)
 * El azimut solar es el ángulo horizontal que indica la dirección en la que se encuentra el Sol respecto al norte geográfico.
-Los siguientes simbolos se toman como variables en las ecuaciones  para luego darles su valor.
+
+Los siguientes simbolos se toman como variables en las ecuaciones para luego darles su valor:
+
 * δ -> para Declinación solar, δ = 23.45° × sen[360/365 × (284+n)] (n = día del año)
 * ω -> Ángulo horario, ω = 15° × (hora solar − 12)
 * α -> Altura solar, sen(α) = sen(φ)sen(δ) + cos(φ)cos(δ)cos(ω)
