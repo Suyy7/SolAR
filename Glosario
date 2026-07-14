@@ -1,0 +1,17 @@
+// Aqui vemos la nomeclatura del vocabulario que usamos comunmente y a que nos referimos cuando hablamos de un proyecto.
+
+* Las plantas CSP (Concentrated Solar Power o Energía Solar de Concentración) son instalaciones que 
+generan electricidad aprovechando el calor del sol
+* Gsc (Constante Solar): 1367 W/m² — energía que llega al tope de la atmósfera terrestre, perpendicular a los rayos.
+* Irradiancia (W/m²): potencia instantánea por unidad de área
+* Irradiación (Wh/m² o kWh/m²): energía acumulada en un período (día, mes, año)
+* GHI (Global Horizontal Irradiance): radiación total sobre superficie horizontal
+* DNI (Direct Normal Irradiance): radiación directa perpendicular al sol
+* DHI (Diffuse Horizontal Irradiance): radiación difusa (dispersada por atmósfera/nubes)
+* El azimut solar es el ángulo horizontal que indica la dirección en la que se encuentra el Sol respecto al norte geográfico.
+Los siguientes simbolos se toman como variables en las ecuaciones  para luego darles su valor.
+* δ -> para Declinación solar, δ = 23.45° × sen[360/365 × (284+n)] (n = día del año)
+* ω -> Ángulo horario, ω = 15° × (hora solar − 12)
+* α -> Altura solar, sen(α) = sen(φ)sen(δ) + cos(φ)cos(δ)cos(ω)
+* θz -> Ángulo cenital, θz = 90° − α
+* γs -> Azimut solar, cos(γs) = [sen(α)sen(φ) − sen(δ)] / [cos(α)cos(φ)]
