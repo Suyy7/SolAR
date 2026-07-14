@@ -17,3 +17,4 @@ Los siguientes simbolos se toman como variables en las ecuaciones para luego dar
 * α -> Altura solar, sen(α) = sen(φ)sen(δ) + cos(φ)cos(δ)cos(ω)
 * θz -> Ángulo cenital, θz = 90° − α
 * γs -> Azimut solar, cos(γs) = [sen(α)sen(φ) − sen(δ)] / [cos(α)cos(φ)]
+* φ = latitud del lugar.
