@@ -1,6 +1,6 @@
 # SolAR
 Este repositorio está basado en la energía solar. 
-Toca temas como: 
+Incursiona temas como: 
   * El desarrollo de un proyecto desde el punto de vista de un profesional.
   * Los puntos fuertes de la tecnología para el usuario y cual será el porvenir de esta.
   * Informar y educar sobre la materia tanto en ahorro energetico como economico y lo legal, este último será según el lugar donde se realizaria el proyecto.
